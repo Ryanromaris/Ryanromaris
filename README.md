@@ -1,4 +1,4 @@
-안녕하세요! 프론트엔드 개발자 김형준입니다. [이력서](https://www.notion.so/11c5ddb5da3247a0904fe5db01b39e6b)
+안녕하세요! 개발을 하며 즐거움을 느끼는 프론트엔드 개발자 김형준입니다. [이력서](https://www.notion.so/11c5ddb5da3247a0904fe5db01b39e6b)
 
 ### Hi there 👋
   <div align=center>
